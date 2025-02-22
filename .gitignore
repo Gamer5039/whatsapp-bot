@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# WhatsApp session files
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Generated QR code
+whatsapp-qr.png
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
